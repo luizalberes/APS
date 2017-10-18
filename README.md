@@ -1,10 +1,10 @@
 # APS
 
 Equipe:
-Felipe Libório: Arquiteto
-Felipe Dias: Analista
-Vinícius Santana: Designer de Banco de Dados
-Luiz Alberes: Revisor
+Felipe Libório: Arquiteto;
+Felipe Dias: Analista;
+Vinícius Santana: Designer de Banco de Dados;
+Luiz Alberes: Revisor;
 
 Concepção do projeto:
 
