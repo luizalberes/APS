@@ -27,13 +27,13 @@ mídia digital;
 
 2. Script de geração do Banco de Dados
 
-3. Documento de visão (conforme modelo anexo);
+3. Documento de visão;
 
-4. Casos de Uso (conforme modelo anexo);
+4. Casos de Uso;
 
-5. Regras de Negócio (conforme modelo anexo);
+5. Regras de Negócio;
 
-6. Dicionário de Dados (conforme modelo anexo);
+6. Dicionário de Dados;
 
 7. Protótipos de telas;
 
